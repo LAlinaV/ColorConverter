@@ -1,7 +1,5 @@
-title: Автопарк
-description: > # this means to ignore newlines until "baseurl:"
-  Проект "Автопарк"
+title: "Автопарк"
+description: "Проект \"Автопарк\""
 permalink: /index.html
-show_excerpts: true # set to false to remove excerpts on the homepage
-
+show_excerpts: true
 theme: jekyll-theme-slate
